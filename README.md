@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Allen Tran
-- 👀 I’m interested in programming and developing new and exciting projects
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to connect on LinkedIn(allenvtran) and instagram(allen__tran)
 - 📫 How to reach me: avtran@usc.edu
 
 <!---
